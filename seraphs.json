@@ -1,0 +1,15 @@
+{
+  "contact": "https://discord.gg/r-br",
+  "templates": [
+    {
+      "name": "Seraphs Last Stand",
+      "sources": [
+        "https://i.imgur.com/KdYDrma.png"
+      ],
+      "x": 602,
+      "y": 412
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
