@@ -1,0 +1,15 @@
+{
+  "contact": "https://discord.gg/r-br",
+  "templates": [
+    {
+      "name": "Seraph",
+      "sources": [
+        "https://raw.githubusercontent.com/ceu64/reddit/main/wizard100.png"
+      ],
+      "x": 602,
+      "y": 412
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
